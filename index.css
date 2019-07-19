@@ -20,7 +20,7 @@
 
   body {
     text-align: center;
-    background: #193549;
+    background: #1b0336;
     color: white;
     font-family: 'helvetica neue', sans-serif;
     font-weight: 100;
@@ -34,3 +34,19 @@
   input {
     width: 100px;
   }
+
+  .description {
+    width: 100%;
+    padding-top: 50px;
+    color: white;
+}
+
+.description-text{
+    font-size: 20px;
+}
+
+.project-description {
+    position: absolute;
+    color: white;
+    left: 75px;
+}
